@@ -18,4 +18,4 @@ public class SuperContraGame implements GamingConsole{
         System.out.println("Shoot a bullet");
     }
 
-}
+}//
