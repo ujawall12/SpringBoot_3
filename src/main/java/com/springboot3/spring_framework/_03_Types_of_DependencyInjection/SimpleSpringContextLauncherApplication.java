@@ -1,4 +1,4 @@
-package com.springboot3.spring_framework.Types_of_DependencyInjection;
+package com.springboot3.spring_framework._03_Types_of_DependencyInjection;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import org.springframework.context.annotation.ComponentScan;

@@ -1,4 +1,4 @@
-package com.springboot3.spring_framework.game;
+package com.springboot3.spring_framework._01_game;
 
 public class SuperContraGame implements GamingConsole{
 

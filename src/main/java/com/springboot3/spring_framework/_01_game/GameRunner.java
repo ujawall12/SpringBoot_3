@@ -1,4 +1,4 @@
-package com.springboot3.spring_framework.game;
+package com.springboot3.spring_framework._01_game;
 
 public class GameRunner {
 
@@ -9,7 +9,7 @@ public class GameRunner {
     }
 
     public void run() {
-        System.out.println("\nInside game "+ game);
+        System.out.println("\nInside _01_game "+ game);
         game.up();
         game.down();
         game.left();

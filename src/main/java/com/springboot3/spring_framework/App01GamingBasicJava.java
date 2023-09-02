@@ -1,12 +1,11 @@
 package com.springboot3.spring_framework;
 
-import com.springboot3.spring_framework.game.GameRunner;
-import com.springboot3.spring_framework.game.MarioGame;
-import com.springboot3.spring_framework.game.SuperContraGame;
+import com.springboot3.spring_framework._01_game.GameRunner;
+import com.springboot3.spring_framework._01_game.SuperContraGame;
 
 public class App01GamingBasicJava {
     public static void main(String[] args) {
-//        var game = new MarioGame();
+//        var _01_game = new MarioGame();
         var game = new SuperContraGame();
 
         var gameRunner = new GameRunner(game);

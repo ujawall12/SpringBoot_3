@@ -1,4 +1,4 @@
-package com.springboot3.spring_framework.BeansAndConfigurations;
+package com.springboot3.spring_framework._02_BeansAndConfigurations;
 
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.context.annotation.Bean;
